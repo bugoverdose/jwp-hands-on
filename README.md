@@ -5,6 +5,6 @@
 ### 학습 순서
 - [cache](./cache/README.md)
 - [thread](./thread/README.md)
-- servlet
-- reflection
+- [servlet](./servlet/README.md)
+- [reflection](./reflection/README.md)
 - di
