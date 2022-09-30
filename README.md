@@ -7,4 +7,4 @@
 - [thread](./thread/README.md)
 - [servlet](./servlet/README.md)
 - [reflection](./reflection/README.md)
-- di
+- [di](./di/README.md)
