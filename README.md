@@ -9,5 +9,6 @@
 - [servlet](./servlet/README.md)
 - [reflection](./reflection/README.md)
 - [di](./di/README.md)
+- [connection pool](./connectionpool/README.md)
 - [transaction](./transaction/README.md)
 - [aop](./aop/README.md)
